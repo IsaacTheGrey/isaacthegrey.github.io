@@ -1,0 +1,129 @@
+[
+  {
+    "src": "assets/fuji-0337.jpg",
+    "title": "Holy Mountain",
+    "description": "Mount Fuji seen from Mount Hakone",
+    "alt": "Mount Fuji seen from Mount Hakone",
+    "categories": [
+      "landscapes"
+    ]
+  },
+  {
+    "src": "assets/DSC_1443.jpg",
+    "title": "Lunch Time",
+    "description": "European squirrel enjoying a snack in Louisenpark, Mannheim, Germany",
+    "alt": "A squirrel eating a snack",
+    "categories": [
+      "macros"
+    ]
+  },
+  {
+    "src": "assets/DSC_0182.jpg",
+    "title": "A Touch of Blue",
+    "description": "",
+    "alt": "A blue beetle resting on purple flowers",
+    "categories": [
+      "macros"
+    ]
+  },
+  {
+    "src": "assets/DSC_0248.jpg",
+    "title": "Across the Valley",
+    "description": "",
+    "alt": "A green valley beneath a broad hillside",
+    "categories": [
+      "landscapes"
+    ]
+  },
+  {
+    "src": "assets/DSC_0518.jpg",
+    "title": "Resting Butterfly",
+    "description": "",
+    "alt": "A white butterfly resting among green leaves",
+    "categories": [
+      "macros"
+    ]
+  },
+  {
+    "src": "assets/DSC_0640.jpg",
+    "title": "Woodland",
+    "description": "",
+    "alt": "A tangle of woodland branches and autumn foliage",
+    "categories": [
+      "landscapes"
+    ]
+  },
+  {
+    "src": "assets/DSC_0686-2.jpg",
+    "title": "Among the Flowers",
+    "description": "Bombus lucorum taking a sip from a flower",
+    "alt": "A bumblebee among small purple flowers",
+    "categories": [
+      "macros"
+    ]
+  },
+  {
+    "src": "assets/DSC_0735-2.jpg",
+    "title": "Hungry Bumblebee",
+    "description": "Bombus terrestris taking a sip from a flower",
+    "alt": "A bumblebee flying beside purple flowers",
+    "categories": [
+      "macros"
+    ]
+  },
+  {
+    "src": "assets/DSC_0954.jpg",
+    "title": "Open Horizons",
+    "description": "View from the top of Stapafell, Iceland",
+    "alt": "A rocky mountain landscape beneath a blue sky",
+    "categories": [
+      "landscapes"
+    ]
+  },
+  {
+    "src": "assets/fiore.jpg",
+    "title": "Water Lily",
+    "description": "Water lily in bloom at the botanical gardens of Padova, Italy",
+    "alt": "A purple water lily in bloom",
+    "categories": [
+      "macros"
+    ]
+  },
+  {
+    "src": "assets/DSC_0003.jpg",
+    "title": "Woodland Mushrooms",
+    "description": "",
+    "alt": "A group of pale mushrooms growing among moss",
+    "categories": [
+      "macros"
+    ]
+  },
+  {
+    "src": "assets/funghi.PNG",
+    "title": "Woodland Visitors",
+    "description": "",
+    "alt": "Colourful illustrated creatures added to a photograph of mushrooms",
+    "categories": [
+      "macros", "drawings" 
+    ], 
+    "credit": "Federico Scaramuzza, Illustrations by Teodoro De Dominicis"
+  },
+  {
+    "src": "assets/piante.jpg",
+    "title": "Venus Flytraps",
+    "description": "Venus flytraps at the botanical gardens of Padova, Italy",
+    "alt": "Open traps and leaves of a Venus flytrap",
+    "categories": [
+      "macros"
+    ]
+  },
+  {
+    "src": "assets/romantic_road.jpg",
+    "title": "The Road Ahead",
+    "description": "Gravel road close to Stapafell, Iceland, with a colourful sky in the background",
+    "alt": "A winding road across a rugged landscape beneath a colourful sky",
+    "categories": [
+      "landscapes"
+    ]
+  }
+]
